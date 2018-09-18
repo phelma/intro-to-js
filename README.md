@@ -1,16 +1,14 @@
 # Introduction to Web Development
-### Things To Do
 
-* Write course contents
-* Pick course dates, tues & weds 6-8pm, 4 weeks?
+### Things To Do
+[ ] -  Pick course dates, tues & weds 6-8pm, 4 weeks?
 Notes
-* We are loosely following the JS section of https://learn.freecodecamp.org/ this is a good course for learning web development from scratch. You can then also work through that course in your own time
 
 ### Course Info
 * 1 or 2 evenings a week 6-8pm @ Digilab Tooting
 * Knowledge of HTML & CSS required
 * Course includes a project to build something for yourself
-
+* We are loosely following the JS section of https://learn.freecodecamp.org/ this is a good course for learning web development from scratch. You can then also work through that course in your own time
 
 ### Course Requirements
 * Email account
@@ -39,7 +37,7 @@ Notes
 * paint app
 * TFL Api for tube status etc
 
-### Course Program
+### Topics
 
 * Basics
   * Text Editors (Brackets / VS Code)
@@ -57,3 +55,6 @@ Notes
   * classList (add, remove, toggle)
   * el.textContent
   * el.addEventListenerI()
+
+### Sessions
+* [Session 1](session-1.md)

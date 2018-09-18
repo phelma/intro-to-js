@@ -44,17 +44,17 @@ Notes
   * MDN https://developer.mozilla.org
 
 * Javascript Syntax
-  * Basic operations (+, console.log, … )
+  * Basic operations (+ - *, logging)
   * Types (String, Number, Array, Object)
   * Comments
   * Variables
   * Functions
 
 * DOM Apis
-  * querySelector()
-  * classList (add, remove, toggle)
-  * el.textContent
-  * el.addEventListenerI()
+  * `querySelector()`
+  * `classList` (add, remove, toggle)
+  * `el.textContent`
+  * `el.addEventListener()`
 
 ### Sessions
 * [Session 1](session-1.md)

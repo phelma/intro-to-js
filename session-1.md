@@ -1,5 +1,5 @@
 ## Session 1
-* Go to  https://jsbin.com/?js,console
+* Go to https://jsbin.com/?js,console
 * `console.log('Hello, World!')`
 * Numbers & Maths `2 + 2` 
 * Strings `'hello'`

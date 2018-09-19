@@ -1,7 +1,7 @@
 # Introduction to Web Development
 
 ### Things To Do
-[ ] -  Pick course dates, tues & weds 6-8pm, 4 weeks?
+* [ ] Pick course dates, tues & weds 6-8pm, 4 weeks?
 Notes
 
 ### Course Info

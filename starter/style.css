@@ -1,0 +1,16 @@
+html {
+  background: #85A8E3;
+  font-family: sans-serif;
+}
+
+.calc {
+  height: 500px;
+  width: 300px;
+  background-color: white;
+}
+
+.screen {
+  border: 1px solid black;
+  height: 100px;
+  margin: 10px;
+}

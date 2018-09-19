@@ -1,6 +1,6 @@
 ## Session 1
 * Go to https://jsbin.com/?js,console
-* `console.log('Hello, World!')`
+* `console.log('Hello, World!')`{:.language-js}
 * Numbers & Maths `2 + 2` 
 * Strings `'hello'`
 * `'hello' + 'world'`

@@ -8,7 +8,7 @@
 * `let total = 10 + 15`
 * `console.log(message + name)`
 * `console.log(message[0])`
-* Arrays `let animals = ['cat', 'dog', 'fish']
+* Arrays `let animals = ['cat', 'dog', 'fish']`
 * `let team = ['Phil', ... ]`
 * `console.log(animals)`
 * `console.log(animals[0])`

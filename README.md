@@ -1,19 +1,19 @@
 # Introduction to Web Development
 
-### Things To Do
-* [ ] Pick course dates, tues & weds 6-8pm, 4 weeks?
-Notes
+### Links
+* [Cheatsheet](cheatsheet.md)
+* [Session 1](session-1.md)
+* [Session 2](session-2.md)
+* [Session 3](session-3.md)
+
 
 ### Course Info
-* 1 or 2 evenings a week 6-8pm @ Digilab Tooting
-* Knowledge of HTML & CSS required
 * Course includes a project to build something for yourself
 * We are loosely following the JS section of https://learn.freecodecamp.org/ this is a good course for learning web development from scratch. You can then also work through that course in your own time
 
 ### Course Requirements
 * Email account
 * GitHub account, free sign up at https://github.com/join need to know username & password
-
 
 ### Project Ideas
 
@@ -56,5 +56,3 @@ Notes
   * `el.textContent`
   * `el.addEventListener()`
 
-### Sessions
-* [Session 1](session-1.md)

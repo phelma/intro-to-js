@@ -1,5 +1,6 @@
 # Intro to JS, Session 3
 * We are going to make a calculator
+* Like this https://digilab-js-calc.surge.sh/
 * [Cheatsheet of what we will need](cheatsheet.md)
 * ## Chat Link: [`https://tlk.io/digilab`](`https://tlk.io/digilab`)
 
